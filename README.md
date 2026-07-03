@@ -1,5 +1,3 @@
-# Kiel Ortiz Nofies
-
 ### **Data Engineer & Full-Stack Developer**
 
 📍 San Mateo, Rizal, Philippines
